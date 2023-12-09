@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasAndroidAdvanceFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="heroes_name">Nama Superhero</string>
+    <string name="description">Description</string>
+    supportActionBar?.title = getString(R.string.app_name)
+</resources>
